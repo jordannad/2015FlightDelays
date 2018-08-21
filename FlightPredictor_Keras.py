@@ -1,8 +1,5 @@
 
-# coding: utf-8
-
-# ### Deep Neural Network Classifier of 2015 Flight Delay + Weather Data
-# 
+# Deep Neural Network Classifier of 2015 Flight Delay + Weather Data
 # Analysis performed with TensorFlow using a custom deep learning network implemented in keras.
 
 
